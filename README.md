@@ -6,8 +6,9 @@ La herramienta online para impulsar tus proyectos de programación
 **Índice**   
 1. [Presentación](#id1)
 2. [El Proyecto](#id2)
-3. [Instalación](#id2)
-4. [Agradecimientos](#id2)
+3. [Instalación](#id3)
+4. [Instrucciones operacionales](#id4)
+5. [Agradecimientos](#id5)
 
 
 ## Presentación<a name="id1"></a>
@@ -30,8 +31,13 @@ Como jóvenes programadores, entendemos la importancia de que nuestros proyectos
 Después de meses de investigación y estudio de interfaces, hemos creado trebunet.com inspirado en el trebuchet medieval, un arma utilizada para lanzar proyectiles pesados contra muros y fortificaciones.
 
 
-Instrucciones operacionales
+## Instalación<a name="id3"></a>
+
+
+## Instrucciones operacionales<a name="id4"></a>
 ![alt text](image-1.png)
 Es necesario iniciar sesión y crear tu perfil en tribunet.com especificando, más adelante, tus intereses. De esta forma, el algoritmo puede recomendarte proyectos de otras personas con las que colaborar.
 ![alt text](image.png)
 Al abrir sesión, podrás crear tus propias propuesta subiendo tu código html y navegar por las creaciones de miles de jóvenes programasdores de todo el planeta.
+
+## Agradecimientos<a name="id5"></a>
